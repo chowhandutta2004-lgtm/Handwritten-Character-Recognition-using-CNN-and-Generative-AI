@@ -1,0 +1,12 @@
+tensorflow>=2.14
+numpy>=1.25
+opencv-python>=4.8
+
+tensorflow
+keras
+numpy
+opencv-python
+matplotlib
+pandas
+seaborn
+scikit-learn
