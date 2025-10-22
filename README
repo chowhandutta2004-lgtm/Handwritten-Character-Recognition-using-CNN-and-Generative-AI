@@ -1,8 +1,6 @@
 # 🖋️ Handwritten Character Recognition using CNN and Generative AI
-: ![Image Alt](https://github.com/chowhandutta2004-lgtm/Handwritten-Character-Recognition-using-CNN-and-Generative-AI/blob/main/Architecture%20Diagram.png?raw=true)
-: ![Image Alt]()
-: ![Image Alt]()
-: ![Image Alt]()
+
+
 ## 📘 Overview
 This project presents an advanced Optical Character Recognition (OCR) system designed to accurately detect and interpret handwritten text. The model integrates **Convolutional Neural Networks (CNN)** for precise feature extraction and **Generative AI (GANs)** for intelligent data augmentation and contextual interpretation.  
 The combination improves recognition accuracy, enhances dataset diversity, and enables the system to understand the semantic meaning behind handwritten characters — making it more powerful than traditional OCR systems.
@@ -57,4 +55,7 @@ interpretation.
 3. **Generative AI Module:** Creates synthetic handwritten samples to balance datasets and enhance learning.  
 4. **Integration Layer:** Combines CNN and Generative AI outputs for context-based recognition and correction.  
 5. **Output Layer:** Produces final recognized text with contextual accuracy.  
+
+![Image Alt](https://github.com/chowhandutta2004-lgtm/Handwritten-Character-Recognition-using-CNN-and-Generative-AI/blob/main/Architecture%20Diagram.png?raw=true)
+
 
