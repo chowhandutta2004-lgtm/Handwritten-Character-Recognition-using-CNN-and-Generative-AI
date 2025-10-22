@@ -4,6 +4,34 @@
 This project presents an advanced Optical Character Recognition (OCR) system designed to accurately detect and interpret handwritten text. The model integrates **Convolutional Neural Networks (CNN)** for precise feature extraction and **Generative AI (GANs)** for intelligent data augmentation and contextual interpretation.  
 The combination improves recognition accuracy, enhances dataset diversity, and enables the system to understand the semantic meaning behind handwritten characters — making it more powerful than traditional OCR systems.
 
+## ABSTRACT
+ 
+The Handwritten Character Recognition using CNN and Generative AI project is to be 
+applied in the establishment of a smart system for handwritten text (OCR) recognition 
+by integrating CNN with generative AI. The CNN architecture, as a backbone system, 
+may be applicable in finding and distinguishing different characters inside an image. 
+This system can read the written text correctly since it utilizes CNNs that have enabled 
+it to scan even the smallest features of every character. Even though the handwriting 
+styles are different, it is still possible to read the fine print for each character using the 
+CNNs because they recognize nearly every visual pattern. This, in essence means that 
+irrespective of the handwriting style applied by a user, the system would therefore be 
+able to accurately recognize a large set of handwritten alphabets and numerals.
+ Using an interpretation layer enhances the use of CNN and incorporates generative AI. 
+Once the CNN identifies characters in the image, the generative AI judges the overall 
+content of the image based on the context applied in the handwriting. With a more 
+observant approach, it ensures that the system will interpret the meaning behind the 
+characters alongside interpreting them, giving a much larger explanation of the 
+handwritten text. For the system to gain understanding of the message, the generative 
+AI presents an intelligent view on the relation between characters and the overall 
+structure.
+ Together, the system from CNN and generative AI shall give a comprehensive solution 
+for the recognition and interpretation of handwriting text. Integration of these 
+capabilities leads to proper document processing beyond the effective accuracy. 
+Examples of applications involve usability including language processing, instructor 
+aids, and digitizing of documents. This is more flexible and reliable compared to 
+traditional OCR techniques because it gives real character recognition and contextual 
+interpretation.
+
 ## 🚀 Features
 - 🔍 Accurate recognition of handwritten alphabets, digits, and symbols  
 - 🧠 Context-aware interpretation of handwritten content using Generative AI  
