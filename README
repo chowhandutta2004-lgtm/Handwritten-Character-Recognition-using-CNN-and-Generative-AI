@@ -1,0 +1,30 @@
+# 🖋️ Handwritten Character Recognition using CNN and Generative AI
+
+## 📘 Overview
+This project presents an advanced Optical Character Recognition (OCR) system designed to accurately detect and interpret handwritten text. The model integrates **Convolutional Neural Networks (CNN)** for precise feature extraction and **Generative AI (GANs)** for intelligent data augmentation and contextual interpretation.  
+The combination improves recognition accuracy, enhances dataset diversity, and enables the system to understand the semantic meaning behind handwritten characters — making it more powerful than traditional OCR systems.
+
+## 🚀 Features
+- 🔍 Accurate recognition of handwritten alphabets, digits, and symbols  
+- 🧠 Context-aware interpretation of handwritten content using Generative AI  
+- 🧩 Synthetic data generation using GANs for robust training  
+- ⚡ Real-time image input and recognition results  
+- 📈 Scalable model adaptable for multi-language datasets  
+- 💾 Easy-to-train and deploy deep learning pipeline  
+
+## 🧠 Technologies Used
+- **Programming Language:** Python  
+- **Deep Learning Frameworks:** TensorFlow, Keras  
+- **Computer Vision:** OpenCV  
+- **Generative Models:** GAN (Generative Adversarial Network)  
+- **Data Handling & Visualization:** NumPy, Pandas, Matplotlib, Seaborn  
+- **Development Tools:** Jupyter Notebook, Google Colab  
+
+## 🧩 System Architecture
+1. **Preprocessing:** Image normalization, grayscale conversion, and resizing for consistent input.  
+2. **CNN Module:** Extracts spatial hierarchies of features and classifies characters.  
+3. **Generative AI Module:** Creates synthetic handwritten samples to balance datasets and enhance learning.  
+4. **Integration Layer:** Combines CNN and Generative AI outputs for context-based recognition and correction.  
+5. **Output Layer:** Produces final recognized text with contextual accuracy.  
+
+### 🔧 Architecture Diagram (Conceptual)
