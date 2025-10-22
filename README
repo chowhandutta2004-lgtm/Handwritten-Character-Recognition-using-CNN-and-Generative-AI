@@ -56,6 +56,6 @@ interpretation.
 4. **Integration Layer:** Combines CNN and Generative AI outputs for context-based recognition and correction.  
 5. **Output Layer:** Produces final recognized text with contextual accuracy.  
 
-![Image Alt](https://github.com/chowhandutta2004-lgtm/Handwritten-Character-Recognition-using-CNN-and-Generative-AI/blob/main/Architecture%20Diagram.png?raw=true)
+
 
 
